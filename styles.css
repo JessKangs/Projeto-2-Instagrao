@@ -332,6 +332,9 @@ margin-top: 10px;
     display: none;
 }
 
+.menu-bot {
+    display: none;
+
 @media (max-width: 900px) {
     body {
     
